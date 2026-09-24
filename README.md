@@ -4,8 +4,8 @@
 
 ### Desenvolvedor Backend em formação | Análise e Desenvolvimento de Sistemas
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas_Amadio-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-amadio-9219223bb)
-[![Gmail](https://img.shields.io/badge/Gmail-lucasamadio2310%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasamadio2310@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-amadio-9219223bb)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasamadio2310@gmail.com)
 
 </div>
 
@@ -17,7 +17,7 @@
 - 🎯 Foco em **Desenvolvimento Backend**, arquitetura de software e otimização de banco de dados.
 - 💻 Experiência prática na construção de aplicações web utilizando **PHP**, **JavaScript**, **TypeScript** e **HTML/CSS**.
 - 🗄️ Conhecimento em **Bancos de Dados Relacionais Avançados**, incluindo modelagem, criação de triggers, views e otimização de consultas SQL.
-- 🌐 **Frontend de Apoio:** Conhecimentos práticos em HTML5 e CSS3 para integração completa de aplicações web.
+- 🌐 **Frontend de Apoio:** Conhecimentos práticos em HTML e CSS para integração completa de aplicações web.
 - 🗣️ **Idiomas:** Inglês básico (em desenvolvimento para leitura e documentação técnica).
 - 🔍 Buscando oportunidades como estagiário ou desenvolvedor backend júnior para aplicar e expandir minhas habilidades técnicas.
 
@@ -35,9 +35,11 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
-#### Frontend de Apoio & Ferramentas
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+#### Frontend de Apoio
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+#### Ferramentas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
