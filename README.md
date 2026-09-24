@@ -4,8 +4,8 @@
 
 ### Desenvolvedor Backend em formação | Análise e Desenvolvimento de Sistemas
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-amadio)
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasamadio2310@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas_Amadio-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-amadio-9219223bb)
+[![Gmail](https://img.shields.io/badge/Gmail-lucasamadio2310%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasamadio2310@gmail.com)
 
 </div>
 
@@ -40,24 +40,5 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
-
----
-
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=lucasamadio-debug&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas do GitHub" height="175"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasamadio-debug&layout=compact&theme=tokyonight&hide=html,css" alt="Linguagens mais usadas" height="175"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasamadio-debug&theme=tokyonight" alt="Sequência de Commits" />
 
 </div>
